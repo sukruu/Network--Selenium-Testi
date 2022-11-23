@@ -1,0 +1,284 @@
+2022-10-09 23:17:26,766 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: driver.version: unknown 
+2022-10-09 23:18:08,295 INFO  [Logger] networkTest() PASSED 
+2022-11-22 21:22:05,386 ERROR [Logger] networkTest() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [009f27dddb5962275d53eee997132455, findElement {using=xpath, value=(//a[@href="/cart"])[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:55548}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55548/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 009f27dddb5962275d53eee997132455 
+2022-11-22 21:38:04,328 ERROR [Logger] networkTest() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [53b7edb35905ca18b90f24ad994f3246, findElement {using=xpath, value=(//a[@href="/cart"])[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:55999}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55999/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 53b7edb35905ca18b90f24ad994f3246 
+2022-11-22 21:52:47,913 ERROR [Logger] networkTest() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: (//a[@href="/cart"])[2] (tried for 15 second(s) with 250 milliseconds interval)
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-22 21:53:54,479 ERROR [Logger] networkTest() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2b18cad168b8a8be6a9dd35ab3b629d3, findElement {using=xpath, value=(//a[@href="/cart"])[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:56484}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56484/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2b18cad168b8a8be6a9dd35ab3b629d3 
+2022-11-22 21:57:29,449 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-22 22:00:20,937 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-22 22:05:23,467 ERROR [Logger] networkTest() FAILED with cause : Expected condition failed: waiting for element to be clickable: By.xpath: (//a[@href="/cart"])[2] (tried for 15 second(s) with 250 milliseconds interval)
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-22 22:14:16,197 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mainContent"]/div/div[1]/div[2]/div[2]/div/div[5]/div[3]/div[3]/label"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [183724f3d73a81372e788faab8743a3d, findElement {using=xpath, value=//*[@id="mainContent"]/div/div[1]/div[2]/div[2]/div/div[5]/div[3]/div[3]/label}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57030}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57030/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 183724f3d73a81372e788faab8743a3d 
+2022-11-22 22:36:32,772 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mainContent"]/div/div[1]/div[2]/div[2]/div/div[5]/div[3]/div[3]/label"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [86cf446526887b61e26932992f92d26f, findElement {using=xpath, value=//*[@id="mainContent"]/div/div[1]/div[2]/div[2]/div/div[5]/div[3]/div[3]/label}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57215}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57215/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 86cf446526887b61e26932992f92d26f 
+2022-11-22 22:41:44,168 INFO  [Logger] networkTest() PASSED 
+2022-11-22 22:44:35,861 INFO  [Logger] networkTest() PASSED 
+2022-11-22 22:47:52,415 INFO  [Logger] networkTest() PASSED 
+2022-11-22 22:52:44,444 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".button.-primary.header__basket--checkout.header__basketModal.-checkout"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9f14113ddf2a4d15f6e59a83278d9de5, findElement {using=css selector, value=.button.-primary.header__basket--checkout.header__basketModal.-checkout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57840}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57840/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f14113ddf2a4d15f6e59a83278d9de5 
+2022-11-22 22:55:00,370 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".button.-primary.header__basket--checkout.header__basketModal.-checkout"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [710e161969b53f1a1871bfabb59661ff, findElement {using=css selector, value=.button.-primary.header__basket--checkout.header__basketModal.-checkout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57983}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57983/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 710e161969b53f1a1871bfabb59661ff 
+2022-11-22 22:56:44,825 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".button.-primary.header__basket--checkout.header__basketModal.-checkout"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [598fcf5ccacafff1c4d7e2d68b42465c, findElement {using=css selector, value=.button.-primary.header__basket--checkout.header__basketModal.-checkout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:58148}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58148/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 598fcf5ccacafff1c4d7e2d68b42465c 
+2022-11-22 22:59:33,351 INFO  [Logger] networkTest() PASSED 
+2022-11-22 23:35:27,676 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.checkTheValues()" because "this.cardPage" is null 
+2022-11-23 00:04:32,452 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.checkTheValues()" because "this.cardPage" is null 
+2022-11-23 00:06:33,854 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.checkTheValues()" because "this.cardPage" is null 
+2022-11-23 00:09:19,349 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.checkTheValues()" because "this.cardPage" is null 
+2022-11-23 00:13:08,295 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.checkTheValues()" because "this.cardPage" is null 
+2022-11-23 00:16:17,604 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".button.-primary.header__basket--checkout.header__basketModal.-checkout"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8bc0aa2517bc3624b64070b7f1db6dc, findElement {using=css selector, value=.button.-primary.header__basket--checkout.header__basketModal.-checkout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:59665}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59665/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8bc0aa2517bc3624b64070b7f1db6dc 
+2022-11-23 00:19:12,038 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".button.-primary.header__basket--checkout.header__basketModal.-checkout"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [618da23285e9f373d7c6aca96c21716d, findElement {using=css selector, value=.button.-primary.header__basket--checkout.header__basketModal.-checkout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:59810}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59810/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 618da23285e9f373d7c6aca96c21716d 
+2022-11-23 00:23:38,754 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".button.-primary.header__basket--checkout.header__basketModal.-checkout"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e0a0747dc04490b7ab37d02c8a4d537b, findElement {using=css selector, value=.button.-primary.header__basket--checkout.header__basketModal.-checkout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:59991}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59991/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e0a0747dc04490b7ab37d02c8a4d537b 
+2022-11-23 00:25:43,056 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".button.-primary.header__basket--checkout.header__basketModal.-checkout"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [65a02e0a223b91743d12872badc40934, findElement {using=css selector, value=.button.-primary.header__basket--checkout.header__basketModal.-checkout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60146}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60146/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 65a02e0a223b91743d12872badc40934 
+2022-11-23 00:26:43,255 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.checkTheValues()" because "this.cardPage" is null 
+2022-11-23 00:28:45,122 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.checkTheValues()" because "this.cardPage" is null 
+2022-11-23 00:42:34,716 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.checkTheValues()" because "this.cardPage" is null 
+2022-11-23 08:43:46,826 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class="button -secondary -sm relative"]"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f4c2add212a05decd86db40116280b95, findElement {using=xpath, value=//button[@class="button -secondary -sm relative"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51569}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51569/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f4c2add212a05decd86db40116280b95 
+2022-11-23 08:44:46,795 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class="button -secondary -sm relative"]"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ce708836705be97f91221c72a8e9c44, findElement {using=xpath, value=//button[@class="button -secondary -sm relative"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51706}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51706/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ce708836705be97f91221c72a8e9c44 
+2022-11-23 08:46:39,863 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-23 08:51:55,525 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class="button -secondary -sm relative"]"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [65b8e9de0aced332dc3a5d1130d8cd5a, findElement {using=xpath, value=//button[@class="button -secondary -sm relative"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52004}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52004/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 65b8e9de0aced332dc3a5d1130d8cd5a 
+2022-11-23 09:29:40,254 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.checkTheValues()" because "this.cardPage" is null 
+2022-11-23 09:31:17,029 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.continueShopping()" because "this.cardPage" is null 
+2022-11-23 09:32:30,353 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.continueShopping()" because "this.cardPage" is null 
+2022-11-23 09:33:29,603 ERROR [Logger] networkTest() FAILED with cause : Cannot invoke "com.network.pages.CardPage.loginIdPassword()" because "this.cardPage" is null 
+2022-11-23 09:35:34,034 INFO  [Logger] networkTest() PASSED 
+2022-11-23 09:36:54,365 ERROR [Logger] networkTest() FAILED with cause : expected: <> but was: <3.149,00 TL> 
+2022-11-23 09:39:56,016 INFO  [Logger] networkTest() PASSED 
+2022-11-23 09:41:24,370 INFO  [Logger] networkTest() PASSED 
+2022-11-23 09:42:55,958 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class="headerCheckout__logo"]"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7a98fb11eb03a74e0e5b1b3d50d7b1d8, findElement {using=xpath, value=//a[@class="headerCheckout__logo"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:54278}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54278/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a98fb11eb03a74e0e5b1b3d50d7b1d8 
+2022-11-23 09:44:33,861 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class="headerCheckout__logo"]"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cfc34f7b734aaf8d693532f7ac03708a, findElement {using=xpath, value=//a[@class="headerCheckout__logo"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:54424}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54424/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cfc34f7b734aaf8d693532f7ac03708a 
+2022-11-23 09:48:57,900 INFO  [Logger] networkTest() PASSED 
+2022-11-23 09:50:54,557 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-23 09:54:46,056 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-23 09:56:33,435 ERROR [Logger] networkTest() FAILED with cause : Unable to find element with locator By.cssSelector: .header__icon.-shoppingBag
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: RemoteWebDriver 
+2022-11-23 09:57:38,888 ERROR [Logger] networkTest() FAILED with cause : expected: <> but was: <3.149,00 TL> 
+2022-11-23 09:58:01,367 ERROR [Logger] networkTest() FAILED with cause : expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-23 09:58:48,381 ERROR [Logger] networkTest() FAILED with cause : expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-23 09:59:32,185 INFO  [Logger] networkTest() PASSED 
+2022-11-23 10:02:01,658 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-23 10:02:16,525 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-23 10:06:56,703 INFO  [Logger] networkTest() PASSED 
+2022-11-23 10:08:58,921 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-23 10:11:49,720 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-23 10:15:43,163 INFO  [Logger] networkTest() PASSED 
+2022-11-23 10:19:10,452 ERROR [Logger] networkTest() FAILED with cause : Compound class names not permitted
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: driver.version: unknown 
+2022-11-23 10:21:30,428 ERROR [Logger] networkTest() FAILED with cause : expected: <> but was: <3.149,00 TL> 
+2022-11-23 10:22:11,052 INFO  [Logger] networkTest() PASSED 
+2022-11-23 10:23:18,007 ERROR [Logger] networkTest() FAILED with cause : expected: <> but was: <3.149,00 TL> 
+2022-11-23 10:25:00,143 ERROR [Logger] networkTest() FAILED with cause : expected: <> but was: <3.149,00 TL> 
+2022-11-23 10:26:12,924 INFO  [Logger] networkTest() PASSED 
+2022-11-23 10:27:33,522 INFO  [Logger] networkTest() PASSED 
+2022-11-23 10:30:11,103 INFO  [Logger] networkTest() PASSED 
+2022-11-23 10:32:10,038 INFO  [Logger] networkTest() PASSED 
+2022-11-23 10:40:09,850 INFO  [Logger] networkTest() PASSED 
+2022-11-23 10:41:33,620 INFO  [Logger] networkTest() PASSED 
+2022-11-23 10:49:32,342 INFO  [Logger] networkTest() PASSED 
+2022-11-23 11:54:26,111 ERROR [Logger] networkTest() FAILED with cause : Index 1 out of bounds for length 1 
+2022-11-23 11:55:40,260 ERROR [Logger] networkTest() FAILED with cause : Index 1 out of bounds for length 1 
+2022-11-23 11:58:45,881 ERROR [Logger] networkTest() FAILED with cause : expected: <https://www.network.com.tr/search?searchKey=ceket> but was: <https://www.network.com.tr/search?searchKey=ceket&page=2> 
+2022-11-23 11:59:36,557 INFO  [Logger] networkTest() PASSED 
+2022-11-23 12:13:22,261 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='cartItem__prices']//span[@class='cartItem__price -old -labelPrice']"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7be6f60441acd1f18470ab3a34de9a4, findElement {using=xpath, value=//div[@class='cartItem__prices']//span[@class='cartItem__price -old -labelPrice']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:59195}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59195/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d7be6f60441acd1f18470ab3a34de9a4 
+2022-11-23 12:15:09,207 ERROR [Logger] networkTest() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='cartItem__prices']//span[@class='cartItem__price -old -labelPrice']"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8006330312f480c11fefc3b4eeacd6ae, findElement {using=xpath, value=//div[@class='cartItem__prices']//span[@class='cartItem__price -old -labelPrice']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\NEO\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:59357}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59357/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8006330312f480c11fefc3b4eeacd6ae 
+2022-11-23 12:19:49,585 INFO  [Logger] networkTest() PASSED 
+2022-11-23 12:22:04,515 INFO  [Logger] networkTest() PASSED 
